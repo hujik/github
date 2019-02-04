@@ -6,6 +6,7 @@
 
 int main()
 {
+	int sss = 1;
     return 0;
 }
 
